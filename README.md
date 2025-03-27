@@ -17,6 +17,12 @@
 
 ###
 
+###
+
+
+<img align="right" height="150" src="[https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/200w.gif?cid=6c09b952p2u2jqktvqbd4xuw7p6vhd03977hm5rj7mr4kzdx&ep=v1_gifs_search&rid=200w.gif&ct=g](https://camo.githubusercontent.com/0c9768917abed2e79b4912df500c34ebdea7fbc0c505f5b7debe59af66b48eb6/68747470733a2f2f7474686e2e707974686f6e616e7977686572652e636f6d3f7370696e3d74727565267363616e3d747275652665715f636f6c6f723d7261696e626f77267468656d653d6461726b)"  />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
