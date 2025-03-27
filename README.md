@@ -1,4 +1,4 @@
-<h2 align="left">Hello!!! My name is SteMt323 and I'm a studying system engineer.<br><br>I want to be Web Developer and Cyubersecurity Expert</h2>
+<h2 align="left">Hello!!! My name is SteMt323 and I'm a studying system engineer.<br><br>I want to be Web Developer and Cybersecurity Expert</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 <div align="center">
 <img align="right" height="150" src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/200w.gif?cid=6c09b952p2u2jqktvqbd4xuw7p6vhd03977hm5rj7mr4kzdx&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 </div>
-###
+
 
 <h2 align="left">Languages, frameworks and others tools</h2>
 <div align="left">
