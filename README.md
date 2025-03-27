@@ -8,13 +8,13 @@
 </div>
 
 ###
-
+<div align="right">
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/166463207?v=4"  />
-
+</div>
 ###
-
+<div align="right">
 <img align="right" height="150" src="https://media4.giphy.com/media/1H7wK6RCCExDMaSS1g/200w.gif?cid=6c09b952p2u2jqktvqbd4xuw7p6vhd03977hm5rj7mr4kzdx&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
+</div>
 ###
 
 <h2 align="left">Languages, frameworks and others tools</h2>
