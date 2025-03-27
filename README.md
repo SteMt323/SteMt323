@@ -50,13 +50,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteMt323/SteMt323/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SteMt323/SteMt323/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Steven Mejia">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31skgolgrbe2d7f7jwjbsyalzupy&width={width})
-  </a>
-</div>
-
-###
