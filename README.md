@@ -35,7 +35,7 @@
 </div>
 
 ###
-
+<h2 align="left">Social Media</h2>
 <div align="left">
   <a href="https://www.instagram.com/stevenmejia732/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,7 +52,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SteMt323/SteMt323/output/pacman-contribution-graph.svg">
 </picture>
 
-### Things I would like to know in my short life
+<h2 align="left">Things I would like to know in my short life</h2>
 - Web Developer (Backend)
 - CyberSecurity
 - Database Management
