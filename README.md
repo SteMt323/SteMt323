@@ -53,7 +53,7 @@
 </picture>
 
 <h2 align="left">Things I would like to know in my short life</h2>
-###
+
 
 - Web Developer (Backend)
 - CyberSecurity
