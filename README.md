@@ -54,11 +54,13 @@
 
 <h2 align="left">Things I would like to know in my short life</h2>
 ###
+
 - Web Developer (Backend)
 - CyberSecurity
 - Database Management
 - Data Science
 - Machine Learning
 - Arduino and Robotic (just a little bit)
+  
 ###
 
