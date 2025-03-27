@@ -50,3 +50,22 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteMt323/SteMt323/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SteMt323/SteMt323/output/pacman-contribution-graph.svg">
 </picture>
+
+### Things I would like to know in my short life
+- Web Developer (Backend)
+- CyberSecurity
+- Database Management
+- Data Science
+- Machine Learning
+- Arduino and Robotic (just a little bit)
+
+###
+
+<h3>Listen to my favorite music:</h3>
+<a href="https://open.spotify.com/intl-es/track/5FVd6KXrgO9B3JPmC8OPst?si=30b0590134cf4e74" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Spotify_icon.svg" alt="Spotify logo" height="30" />
+  Click to listen on Spotify
+</a>
+
+
+###
