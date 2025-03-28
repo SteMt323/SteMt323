@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/53/4e/f3/534ef3554088173d553f4c5a1535a1f6.gif" alt="stats graph"  />
+  <img src="https://i.pinimg.com/originals/53/4e/f3/534ef3554088173d553f4c5a1535a1f6.gif" height="400" alt="stats graph"  />
 </div>
 
 <h2 align="left">Hello!!! My name is SteMt323 and I'm a studying system engineer.<br><br>I want to be Web Developer and Cybersecurity Expert</h2>
