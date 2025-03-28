@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/66/f3/83/66f38398faba38139e3b4c541f05c706.jpg" alt="stats graph"  />
+</div>
+
 <h2 align="left">Hello!!! My name is SteMt323 and I'm a studying system engineer.<br><br>I want to be Web Developer and Cybersecurity Expert</h2>
 
 ###
