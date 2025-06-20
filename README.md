@@ -63,8 +63,7 @@
 ###
 <div align="center">
     <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9332&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-    " height="35" alt="more stats"  />
-  </a>
+    " height="400" alt="more stats"  />
 </div>
 
 ###
