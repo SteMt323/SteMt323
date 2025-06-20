@@ -62,9 +62,10 @@
 
 ###
 <div align="center">
-    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9332&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-    " height="400" alt="more stats"  />
+    ![Summer of Making](https://github-readme-stats.hackclub.dev/api/wakatime?username=9332&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+    )
 </div>
+
 
 ###
 
